@@ -2,3 +2,6 @@ hiragana_ocr_translation/A_Z Handwritten Data.csv
 A_Z Handwritten Data
 hiragana_ocr_translation/hiragana-dataset
 global_covid-19
+covid_19_tweet_sentiments/labeled_tweets.csv
+covid_19_tweet_sentiments/tweets.csv
+covid_19_tweet_sentiments/NRC-Emotion-Lexicon-Wordlevel-v0.92.txt
